@@ -1,0 +1,2 @@
+with:
+  timeout: 300000  # Mengurangi timeout menjadi 5 menit
